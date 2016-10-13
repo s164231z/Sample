@@ -1,3 +1,3 @@
 # Sample
 Interconnection Network  
-Simulation Program -- JAVA File
+Simulation Programs written in Ruby
