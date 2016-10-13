@@ -1,2 +1,3 @@
 # Sample
-sample
+Interconnection Network
+Simulation Program -- JAVA File
